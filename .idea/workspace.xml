@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36a1ffd9-4657-419a-bf9e-f1222ef2b0de" name="Default Changelist" comment="" />
+    <list default="true" id="36a1ffd9-4657-419a-bf9e-f1222ef2b0de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,11 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -32,6 +39,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ohHaztkMqBDazOQBWo13LUkSu7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -67,14 +75,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613731973324</updated>
-      <workItem from="1613731982366" duration="543000" />
+      <workItem from="1613731982366" duration="798000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1613732666545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613732666545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="59" y="23" key="CommitChangelistDialog2" timestamp="1613732665623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="59" y="23" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1613732665623" />
     <state x="307" y="182" key="FileChooserDialogImpl" timestamp="1613732596685">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
